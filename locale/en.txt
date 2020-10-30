@@ -1,0 +1,21 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Virtual Tour
+
+### Title
+tour.name = 2700 Anza
+
+## Media
+
+### Title
+panorama_7A4DC7C1_76FC_82FF_41BF_356BAB9CD528.label = Entrance & Hallway
+panorama_7DF90212_76FC_9D9D_41DB_CB3AD031CBF4.label = Second Bedroom
+panorama_7DF98795_76FC_8287_41D1_B02267973F73.label = Bathroom
+panorama_7DF9B26E_76FC_9D85_41DA_9B7DCD40EAD2.label = Laundry
+panorama_7DF9BCEA_76FC_868D_41B6_E1A04C285349.label = Large Hallway Closet
+panorama_7DF9E7D0_76FC_829D_419A_2419667448DA.label = Kitchen
+panorama_7DF9FC8C_76FC_8685_41B9_FB4FB07E8371.label = Linving Room
+panorama_7DFB1280_76FC_9D7D_41D7_14824F836970.label = Master Bedroom
